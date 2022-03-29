@@ -1,1 +1,5 @@
-# versionamento
+# Versionamento
+
+- Git
+- GitHub
+- Markdown 
